@@ -88,13 +88,15 @@ export const skillsData = [
   "HTML",
   "CSS",
   "JavaScript",
+  "TypeScript",
   "BootStrap",
   "React",
+  "React Native",
   "Next.js",
   "Node.js",
   "Git",
   "Tailwind",
-  
- 
+  "Docker",
+  "MUI",
   "Framer Motion",
 ] as const;
